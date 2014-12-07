@@ -1,0 +1,39 @@
+/*  
+Skin Name: White Box
+Version: 1.0
+Description: Skin for Fullscreen
+*/
+
+body {
+	color: #666;
+}
+
+input[type=text], input[type=password], textarea, input[type=search], input[type=email] {
+	background-color: #eee;
+	color: #333;
+}
+textarea:focus, input[type=password]:focus, input[type=text]:focus, input[type=search]:focus, input[type=email]:focus {
+	background: #ddd;
+}
+
+
+h1, h2, h3, h4, h5, h6 {
+	color: #000;
+}
+
+/* box styles */
+#content,
+.widget {
+	background-color: #fff;
+	border-color: #666;
+}
+
+/* post title */
+.post-title, .post-title a {
+	color: #000;
+}
+
+/* widget title */
+.widgettitle {
+	color: #333;
+}

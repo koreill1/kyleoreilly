@@ -1,0 +1,21 @@
+/*
+ Theme Name:   Fullscreen Child
+ Theme URI:    http://themify.me
+ Description:  Fullscreen Child Theme
+ Author:       Kyle O'Reilly
+ Author URI:   http://kyleoreil.ly
+ Template:     fullscreen
+ Version:      1.0.0
+ Tags:         light, dark, two-columns, right-sidebar, responsive-layout, accessibility-ready
+ Text Domain:  fullscreen-child
+*/
+
+
+/* =Theme customization starts here
+-------------------------------------------------------------- */
+
+content {
+	background-color: #fff;
+	color: green;
+}
+

@@ -1,0 +1,46 @@
+/*  
+Skin Name: Pink
+Version: 1.0
+Description: Skin for Fullscreen
+*/
+
+a {
+	color: #fdb0b0;
+}
+
+/* theme color */
+input[type=reset], input[type=submit], button,
+#menu-button,
+#main-nav,
+#main-nav ul,
+#main-nav ul a, #main-nav .current_page_item ul a, #main-nav ul .current_page_item a, #main-nav .current-menu-item ul a, #main-nav ul .current-menu-item a, #main-nav li:hover > ul a,
+.pagenav a,
+.post-nav .arrow,
+#fullscreen-button,
+.slider .carousel-nav-wrap a
+{
+	background-color: #fc8e8e;
+}
+
+/* theme hover color */
+input[type=reset]:hover, input[type=submit]:hover, button:hover,
+#menu-button:hover,
+#main-nav a:hover,
+#main-nav .current_page_item a, #main-nav .current-menu-item a,
+#main-nav .current_page_item a:hover, #main-nav .current-menu-item a:hover,
+#main-nav ul a:hover, #main-nav .current_page_item ul a:hover, #main-nav ul .current_page_item a:hover, #main-nav .current-menu-item ul a:hover, #main-nav ul .current-menu-item a:hover, #main-nav li:hover > ul a:hover,
+.pagenav a:hover,
+.pagenav .current,
+.post-nav a:hover span,
+#fullscreen-button:hover
+{
+	background-color: #fdb0b0;
+}
+
+/* theme border color */
+.list-post .post-meta,
+.portfolio .post-date,
+.slider .slides .current-slide .image-wrap::after
+{
+	border-color: #fc8e8e;
+}
